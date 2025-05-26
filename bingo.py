@@ -1,4 +1,5 @@
-from random import shuffle,choice
+from random import shuffle
+feom random import choice
 
 shuffle(cpu:=[*range(1,26)])
 
